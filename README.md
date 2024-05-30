@@ -1,4 +1,4 @@
-# clickette
+# Clickette
 
 Less clicks to do more stuff.
 
