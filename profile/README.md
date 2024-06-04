@@ -12,13 +12,6 @@
 
 A powerful, open-source and free search engine that has a simple but clean UI. Smart search and provides a public search API that's free to use in open-source projects.
 
-##### [CLICKETTE SEARCH API](https://github.com/Clickette/search-api) ・ GPL-3.0
-
-A powerful, open-source and free search engine api that's free to use in open-source projects, with multiple functions that you can take advantage of at anytime.
-##### [CLICKETTE SEARCH CRAWLER](https://github.com/Clickette/search-crawl) ・ GPL-3.0
-
-A powerful, open-source and free search engine crawler for use in a custom search engine. Designed specifically for [clickette's search engine API to use for fetching sites.](https://github.com/Clickette/search-api)
-
 ##### [CLICKETTE VAULT](https://github.com/Clickette/homepage) ・ CC BY-NC-SA 4.0
 
 A simple and easy to use free online file manager. Converts your files to shareable links and has multiple tools. Open-source and uses open-source technologies.
