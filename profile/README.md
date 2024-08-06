@@ -2,9 +2,7 @@
 
 ### We're clickette, the team that makes stuff that you click on.
 
-**Links 🡪** ・ [**Website**](https://team.clickette.net/) ・ [**Search**](https://search.clickette.net) ・ [**Vault**](https://clickette.net)
-
----
+**Links 🡪** ・ [**Website**](https://team.clickette.net/) ・ [**Vault**](https://clickette.net) ・ [**Glyphin**](https://glyphin.hamium.xyz/)
 
 ### Our Flagship Projects
 
@@ -16,8 +14,11 @@ A simple and easy to use free online file manager. Converts your files to sharea
 
 A work-in-progress alternative to [zipline](https://zipline.diced.sh) with even more customizability and features that can be extended with plugins.
 
+##### [GLYPHIN](https://glyphin.hamium.xyz/) ・ PRIVATE
+
+Glyphin is a free, powerful and beautifully made multi-purpose Discord bot, designed with customizability and feature set in mind, and a shiny dashboard.
+
 ---
 
-##### © ・ Team Clickette ・ All rights reserved.
-
-##### All repositories and content under this organization are licensed under GPL-3.0 unless otherwise stated.
+###### All repositories and content under this organization are usually licenced under GPL-3.0 or CC BY-NC-SA 4.0 unless otherwise stated.
+##### © Team Clickette ・ All rights reserved.
