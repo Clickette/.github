@@ -8,7 +8,7 @@
 
 ##### [CLICKETTE VAULT HOMEPAGE](https://github.com/Clickette/homepage) ・ CC BY-NC-SA 4.0
 
-A simple and easy to use free online file manager. Converts your files to shareable links and has multiple tools. Open-source and uses open-source technologies.
+A simple and easy to use free online file manager. Converts your files to shareable links and has multiple tools. Uses open-source technologies.
 
 ##### [CLICKETTE VAULT](https://github.com/Clickette/homepage) ・ GPL-3.0
 
