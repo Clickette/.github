@@ -10,7 +10,7 @@
 
 A simple and easy to use free online file manager. Converts your files to shareable links and has multiple tools. Uses open-source technologies.
 
-##### [CLICKETTE VAULT](https://github.com/Clickette/homepage) ・ GPL-3.0
+##### [CLICKETTE VAULT [WIP]](https://github.com/Clickette/homepage) ・ GPL-3.0
 
 A work-in-progress alternative to [zipline](https://zipline.diced.sh) with even more customizability and features that can be extended with plugins.
 
