@@ -20,5 +20,5 @@ Glyphin is a free, powerful and beautifully made multi-purpose Discord bot, desi
 
 ---
 
-###### All repositories and content under this organization are usually licenced under GPL-3.0 or CC BY-NC-SA 4.0 unless otherwise stated.
+###### All repositories and content under this organization are usually licenced under AGPL-3.0 or CC BY-NC-SA 4.0 unless otherwise stated.
 ##### © Team Clickette ・ All rights reserved.
