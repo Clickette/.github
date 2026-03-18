@@ -1,24 +1,15 @@
-![Clickette](https://clickette.net/assets-homepage/img/wordmark-shadow.png)
+![Clickette](https://clickette.org/wordmark-shadow.png)
 
-### We're clickette, the team that makes stuff that you click on.
+### We're Clickette.
 
-**Links 🡪** ・ [**Website**](https://team.clickette.net/) ・ [**Vault**](https://clickette.net) ・ [**Glyphin**](https://glyphin.hamium.xyz/)
+**Links →** ・ [**Website**](https://clickette.net/) ・ [**Bluesky**](https://bsky.app/profile/clickette.org/)
 
-### Our Flagship Projects
+### Our Flagship Project
 
-##### [CLICKETTE VAULT HOMEPAGE](https://github.com/Clickette/homepage) ・ CC BY-NC-SA 4.0
+##### CLICKETTE VAULT ・ AGPL-3.0 <sub><sup>(PRIVATE)</sup></sub>
 
-A simple and easy to use free online file manager. Converts your files to shareable links and has multiple tools. Uses open-source technologies.
-
-##### [CLICKETTE VAULT [WIP]](https://github.com/Clickette/homepage) ・ GPL-3.0
-
-A work-in-progress alternative to [zipline](https://zipline.diced.sh) with even more customizability and features that can be extended with plugins.
-
-##### [GLYPHIN](https://glyphin.hamium.xyz/) ・ PRIVATE
-
-Glyphin is a free, powerful and beautifully made multi-purpose Discord bot, designed with customizability and feature set in mind, and a shiny dashboard.
+An easy to use, open source, end-to-end encrypted Google Drive and [Zipline](https://zipline.diced.sh) alternative. Work in progress.
 
 ---
 
-###### All repositories and content under this organization are usually licenced under AGPL-3.0 or CC BY-NC-SA 4.0 unless otherwise stated.
 ##### © Team Clickette ・ All rights reserved.
